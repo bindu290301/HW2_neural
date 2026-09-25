@@ -1,7 +1,7 @@
 # Home Assignment 2 - Video Presentation Script
 
 ## Opening
-Hello, my name is Ramya Modala. This is my Home Assignment 2 for CS5720 Neural Network and Deep Learning at the University of Central Missouri. I will briefly demonstrate all five questions.
+Hello, my name is Bindu sri Gurrala. This is my Home Assignment 2 for CS5720 Neural Network and Deep Learning at the University of Central Missouri. I will briefly demonstrate all five questions.
 
 ## Question 1 - RNN Text Generation
 For Question 1, I implemented character-level text generation using an LSTM. I loaded Shakespeare text, created a character vocabulary, converted the text to integer sequences, and trained an embedding-LSTM-Dense model to predict the next character. The generation function samples one character at a time. I also compare temperature values. Lower temperature makes the output more predictable, while higher temperature increases randomness and diversity.
