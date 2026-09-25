@@ -1,7 +1,7 @@
 # CS5720 Neural Network and Deep Learning
 ## Home Assignment 2 - Fall 2026
 
-**Student Name:** Ramya Modala  
+**Student Name:** Bindu sri Gurrala
 **Course:** CS5720 Neural Network and Deep Learning  
 **University:** University of Central Missouri  
 **Assignment:** Home Assignment 2
